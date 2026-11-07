@@ -6,8 +6,7 @@ A modern, visually stunning, fully responsive Event Management Website built wit
 
 ## 🚀 Live Demo
 
-Coming soon after deployment
-
+Check the website:https://dancing-medovik-2f97bb.netlify.app
 ## ✨ Features
 
 ### Core Features
